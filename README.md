@@ -46,7 +46,7 @@ to launch the front-end.
 
 ### Authors
 
-Parth Verma
+Kritika Joshi
 
 ### License
 
